@@ -1,6 +1,6 @@
 {
   "name": "moremath-js",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Expanded Math Library",
   "main": "index.js",
   "directories": {
